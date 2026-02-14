@@ -1,0 +1,702 @@
+[
+    {
+        "id": "57a06005cf1fa5fbd5000216",
+        "name": "Words to sentence",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/57a06005cf1fa5fbd5000216"
+    },
+    {
+        "id": "55e4c52ad58df7509c00007e",
+        "name": "Invalid Login - Bug Fixing #11",
+        "rank": -8,
+        "category": "bug_fixes",
+        "url": "https://www.codewars.com/kata/55e4c52ad58df7509c00007e"
+    },
+    {
+        "id": "513f887e484edf3eb3000001",
+        "name": "Person Class Bug",
+        "rank": -7,
+        "category": "bug_fixes",
+        "url": "https://www.codewars.com/kata/513f887e484edf3eb3000001"
+    },
+    {
+        "id": "51c38e14ea1c97ffaf000003",
+        "name": "Populate hash with array keys and default value",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/51c38e14ea1c97ffaf000003"
+    },
+    {
+        "id": "55afed09237df73343000042",
+        "name": "lucky number",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/55afed09237df73343000042"
+    },
+    {
+        "id": "56d5166ec87df55dbe000063",
+        "name": "Sum of Array Averages",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/56d5166ec87df55dbe000063"
+    },
+    {
+        "id": "51dda84f91f5b5608b0004cc",
+        "name": "Fizz / Buzz",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/51dda84f91f5b5608b0004cc"
+    },
+    {
+        "id": "5a1ebe0d46d843454100004c",
+        "name": "Day of the Year",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5a1ebe0d46d843454100004c"
+    },
+    {
+        "id": "56a4a3d4043c316002000042",
+        "name": "regex  validation of 24 hours time.",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/56a4a3d4043c316002000042"
+    },
+    {
+        "id": "5888a57cbf87c25c840000c6",
+        "name": "It is written in the stars",
+        "rank": -7,
+        "category": "games",
+        "url": "https://www.codewars.com/kata/5888a57cbf87c25c840000c6"
+    },
+    {
+        "id": "5857e8bb9948644aa1000246",
+        "name": "Can Santa save Christmas?",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5857e8bb9948644aa1000246"
+    },
+    {
+        "id": "5a4b16435f08299c7000274f",
+        "name": "Sum - Square Even, Root Odd",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5a4b16435f08299c7000274f"
+    },
+    {
+        "id": "5566b0dd450172dfc4000005",
+        "name": "Finding length of the sequence",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/5566b0dd450172dfc4000005"
+    },
+    {
+        "id": "582aafca2d44a4a4560000e7",
+        "name": "Keep the Order",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/582aafca2d44a4a4560000e7"
+    },
+    {
+        "id": "56853c44b295170b73000007",
+        "name": "Are they square?",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/56853c44b295170b73000007"
+    },
+    {
+        "id": "56f7493f5d7c12d1690000b6",
+        "name": "Calculate mean and concatenate string",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/56f7493f5d7c12d1690000b6"
+    },
+    {
+        "id": "556cebcf7c58da564a000045",
+        "name": "Number of Rectangles in a Grid",
+        "rank": -7,
+        "category": "games",
+        "url": "https://www.codewars.com/kata/556cebcf7c58da564a000045"
+    },
+    {
+        "id": "59b710ed70a3b7dd8f000027",
+        "name": "Possibilities Array",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/59b710ed70a3b7dd8f000027"
+    },
+    {
+        "id": "515ceaebcc1dde8870000001",
+        "name": "Retrieve array value by index with default",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/515ceaebcc1dde8870000001"
+    },
+    {
+        "id": "57ef016a7b45ef647a00002d",
+        "name": "Homogenous arrays",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/57ef016a7b45ef647a00002d"
+    },
+    {
+        "id": "595519279be6c575b5000016",
+        "name": "Battle of the characters (Easy)",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/595519279be6c575b5000016"
+    },
+    {
+        "id": "55c7f90ac8025ebee1000062",
+        "name": "Failed Sort - Bug Fixing #4",
+        "rank": -7,
+        "category": "bug_fixes",
+        "url": "https://www.codewars.com/kata/55c7f90ac8025ebee1000062"
+    },
+    {
+        "id": "559e10e2e162b69f750000b4",
+        "name": "What dominates your array?",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/559e10e2e162b69f750000b4"
+    },
+    {
+        "id": "56368f37d464c0a43c00007f",
+        "name": "Debug Basic Calculator",
+        "rank": -7,
+        "category": "bug_fixes",
+        "url": "https://www.codewars.com/kata/56368f37d464c0a43c00007f"
+    },
+    {
+        "id": "5520714decb43308ea000083",
+        "name": "Nth Root of a Number",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5520714decb43308ea000083"
+    },
+    {
+        "id": "57037ed25a7263ac35000c80",
+        "name": "Generate user links",
+        "rank": -8,
+        "category": "games",
+        "url": "https://www.codewars.com/kata/57037ed25a7263ac35000c80"
+    },
+    {
+        "id": "59ca8e8e1a68b7de740001f4",
+        "name": "String matchup",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4"
+    },
+    {
+        "id": "52a6b34e43c2484ac10000cd",
+        "name": "Naughty or Nice?",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/52a6b34e43c2484ac10000cd"
+    },
+    {
+        "id": "5a4ff3c5fd56cbaf9800003e",
+        "name": "Working with arrays I (and why your code fails in some katas)",
+        "rank": -7,
+        "category": "refactoring",
+        "url": "https://www.codewars.com/kata/5a4ff3c5fd56cbaf9800003e"
+    },
+    {
+        "id": "5f8341f6d030dc002a69d7e4",
+        "name": "Least Larger",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4"
+    },
+    {
+        "id": "5cd5ba1ce4471a00256930c0",
+        "name": "last digits of a number",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0"
+    },
+    {
+        "id": "5b6375f707a2664ada00002a",
+        "name": "Who's Online?",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5b6375f707a2664ada00002a"
+    },
+    {
+        "id": "582c81d982a0a65424000201",
+        "name": "Is every value in the array an array?",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/582c81d982a0a65424000201"
+    },
+    {
+        "id": "58235a167a8cb37e1a0000db",
+        "name": "Pair of gloves",
+        "rank": -6,
+        "category": "games",
+        "url": "https://www.codewars.com/kata/58235a167a8cb37e1a0000db"
+    },
+    {
+        "id": "529b418d533b76924600085d",
+        "name": "Convert PascalCase string into snake_case",
+        "rank": -5,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/529b418d533b76924600085d"
+    },
+    {
+        "id": "57b6f5aadb5b3d0ae3000611",
+        "name": "Length of missing array",
+        "rank": -6,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611"
+    },
+    {
+        "id": "515f51d438015969f7000013",
+        "name": "Pyramid Array",
+        "rank": -6,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/515f51d438015969f7000013"
+    },
+    {
+        "id": "51e04f6b544cf3f6550000c1",
+        "name": "Beeramid",
+        "rank": -5,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/51e04f6b544cf3f6550000c1"
+    },
+    {
+        "id": "525f47c79f2f25a4db000025",
+        "name": "Valid Phone Number",
+        "rank": -6,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/525f47c79f2f25a4db000025"
+    },
+    {
+        "id": "51edd51599a189fe7f000015",
+        "name": "Mean Square Error",
+        "rank": -5,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/51edd51599a189fe7f000015"
+    },
+    {
+        "id": "52223df9e8f98c7aa7000062",
+        "name": "ROT13",
+        "rank": -5,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/52223df9e8f98c7aa7000062"
+    },
+    {
+        "id": "526989a41034285187000de4",
+        "name": "Count IP Addresses",
+        "rank": -5,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/526989a41034285187000de4"
+    },
+    {
+        "id": "51e0007c1f9378fa810002a9",
+        "name": "Make the Deadfish Swim",
+        "rank": -6,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/51e0007c1f9378fa810002a9"
+    },
+    {
+        "id": "515decfd9dcfc23bb6000006",
+        "name": "IP Validation",
+        "rank": -6,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/515decfd9dcfc23bb6000006"
+    },
+    {
+        "id": "526dbd6c8c0eb53254000110",
+        "name": "Not very secure",
+        "rank": -5,
+        "category": "bug_fixes",
+        "url": "https://www.codewars.com/kata/526dbd6c8c0eb53254000110"
+    },
+    {
+        "id": "514a024011ea4fb54200004b",
+        "name": "Extract the domain name from a URL",
+        "rank": -5,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/514a024011ea4fb54200004b"
+    },
+    {
+        "id": "525c65e51bf619685c000059",
+        "name": "Pete, the baker",
+        "rank": -5,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/525c65e51bf619685c000059"
+    },
+    {
+        "id": "580a429e1cb4028481000019",
+        "name": "Author Disambiguation: to the point",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/580a429e1cb4028481000019"
+    },
+    {
+        "id": "5a6a02adcadebf618400002b",
+        "name": "Make Your Own Hashmap",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5a6a02adcadebf618400002b"
+    },
+    {
+        "id": "6394c1995e54bd00307cf768",
+        "name": "French Imparfait Conjugation",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/6394c1995e54bd00307cf768"
+    },
+    {
+        "id": "6400aa17431f2d89c07eea75",
+        "name": "Barbell weight",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/6400aa17431f2d89c07eea75"
+    },
+    {
+        "id": "650a86e8404241005fc744ca",
+        "name": "Ones and Zeroes",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/650a86e8404241005fc744ca"
+    },
+    {
+        "id": "5d9fe0ace0aad7001290acb7",
+        "name": "Significant Figures",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/5d9fe0ace0aad7001290acb7"
+    },
+    {
+        "id": "59f69fefa0143109e5000019",
+        "name": "Did we win the Super Bowl?",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/59f69fefa0143109e5000019"
+    },
+    {
+        "id": "6627696c86b953001280675e",
+        "name": "De-Emojify",
+        "rank": -7,
+        "category": "games",
+        "url": "https://www.codewars.com/kata/6627696c86b953001280675e"
+    },
+    {
+        "id": "5736378e3f3dfd5a820000cb",
+        "name": "Bus Timer",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5736378e3f3dfd5a820000cb"
+    },
+    {
+        "id": "565f448e6e0190b0a40000cc",
+        "name": "Food combinations",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/565f448e6e0190b0a40000cc"
+    },
+    {
+        "id": "5a21f943c5e284d4340000cb",
+        "name": "Bug Squish!",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5a21f943c5e284d4340000cb"
+    },
+    {
+        "id": "5760c1c7f2717b91e20001a4",
+        "name": "Find the motif in DNA sequence.",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/5760c1c7f2717b91e20001a4"
+    },
+    {
+        "id": "675dc1d3830826975c58a09d",
+        "name": "C is for Codewars",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/675dc1d3830826975c58a09d"
+    },
+    {
+        "id": "5e5acfe31b1c240012717a78",
+        "name": "Data Type Scramble",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5e5acfe31b1c240012717a78"
+    },
+    {
+        "id": "5819a6fdc929bae4f5000a33",
+        "name": "Identify Case",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5819a6fdc929bae4f5000a33"
+    },
+    {
+        "id": "56b12e3ad2387de332000041",
+        "name": "Greatest Difference",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/56b12e3ad2387de332000041"
+    },
+    {
+        "id": "57507369b0b6d1b5a60001b3",
+        "name": "Decompose single strand DNA into 3 reading frames",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/57507369b0b6d1b5a60001b3"
+    },
+    {
+        "id": "573c91c5eaffa3bd350000b0",
+        "name": "Gematria for all",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/573c91c5eaffa3bd350000b0"
+    },
+    {
+        "id": "5830195755f28edad4000081",
+        "name": "Get row from alphabetical sequence",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5830195755f28edad4000081"
+    },
+    {
+        "id": "6368426ec94f16a1e7e137fc",
+        "name": "Walking in the hallway",
+        "rank": -7,
+        "category": "games",
+        "url": "https://www.codewars.com/kata/6368426ec94f16a1e7e137fc"
+    },
+    {
+        "id": "5bc9951026f1cdc77400011c",
+        "name": "The Baby Years I - Baby Counting",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5bc9951026f1cdc77400011c"
+    },
+    {
+        "id": "57eead3b5f79f6d977001fb7",
+        "name": "DigitAll",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/57eead3b5f79f6d977001fb7"
+    },
+    {
+        "id": "58311faba317216aad000168",
+        "name": "Format to the 2nd",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/58311faba317216aad000168"
+    },
+    {
+        "id": "57d147bcc98a521016000320",
+        "name": "Pillow on the Fridge",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/57d147bcc98a521016000320"
+    },
+    {
+        "id": "6584b7cac29ca91dd9124009",
+        "name": "Lojban Numbers",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/6584b7cac29ca91dd9124009"
+    },
+    {
+        "id": "5822b65bb81f702016000026",
+        "name": "Unix command line `ls -l`  extract the file type. ",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5822b65bb81f702016000026"
+    },
+    {
+        "id": "58e953ace87e856a97000046",
+        "name": "Wise drunk man",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/58e953ace87e856a97000046"
+    },
+    {
+        "id": "582cb3a637c5583f2200005d",
+        "name": "Disagreeable ascii",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/582cb3a637c5583f2200005d"
+    },
+    {
+        "id": "667dfbaa4570b2db26aedc8c",
+        "name": "Clothes size number converter",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/667dfbaa4570b2db26aedc8c"
+    },
+    {
+        "id": "595d54bddddd7cf91800008c",
+        "name": "COFFEE!",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/595d54bddddd7cf91800008c"
+    },
+    {
+        "id": "55b95c76e08bd5eef100001e",
+        "name": "Counting in the  Amazon",
+        "rank": -7,
+        "category": "games",
+        "url": "https://www.codewars.com/kata/55b95c76e08bd5eef100001e"
+    },
+    {
+        "id": "530017aac7c0f49926000084",
+        "name": "Pluck",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/530017aac7c0f49926000084"
+    },
+    {
+        "id": "58880c6e79a0a3e459000004",
+        "name": "Simple Fun #37:  House Numbers Sum",
+        "rank": -7,
+        "category": "games",
+        "url": "https://www.codewars.com/kata/58880c6e79a0a3e459000004"
+    },
+    {
+        "id": "5497a3c181dd7291ce000700",
+        "name": "Find sum of top-left to bottom-right diagonals",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5497a3c181dd7291ce000700"
+    },
+    {
+        "id": "56ce2f90aa4ac7a4770019fa",
+        "name": "Help Mr. E",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/56ce2f90aa4ac7a4770019fa"
+    },
+    {
+        "id": "65126d52a5de2b11c94096d2",
+        "name": "Closing in Sum",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/65126d52a5de2b11c94096d2"
+    },
+    {
+        "id": "57212c55b6fa235edc0002a2",
+        "name": "Dinner Plans",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/57212c55b6fa235edc0002a2"
+    },
+    {
+        "id": "5b36137991c74600f200001b",
+        "name": "Kill The Monsters!",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5b36137991c74600f200001b"
+    },
+    {
+        "id": "5e2c7639b5d728001489d910",
+        "name": "Product ID from URL",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5e2c7639b5d728001489d910"
+    },
+    {
+        "id": "5bc73331797b005d18000255",
+        "name": "Curing Arachnophobia",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5bc73331797b005d18000255"
+    },
+    {
+        "id": "584d88622609c8bda30000cf",
+        "name": "Strange Strings Parser!",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/584d88622609c8bda30000cf"
+    },
+    {
+        "id": "5ac54bcbb925d9b437000001",
+        "name": "Find the Middle of the Product",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5ac54bcbb925d9b437000001"
+    },
+    {
+        "id": "57ce0c634001a5f3c7000006",
+        "name": "Date Format Validation",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/57ce0c634001a5f3c7000006"
+    },
+    {
+        "id": "57cec34272f983e17800001e",
+        "name": "PopShift",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/57cec34272f983e17800001e"
+    },
+    {
+        "id": "58702c0ca44cfc50dc000245",
+        "name": "Pig Atinlay",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/58702c0ca44cfc50dc000245"
+    },
+    {
+        "id": "565ce4ab24ef4aee6a000074",
+        "name": "String Matcher",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/565ce4ab24ef4aee6a000074"
+    },
+    {
+        "id": "57ed7214f670e99f7a000c73",
+        "name": "Ski Jump",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/57ed7214f670e99f7a000c73"
+    },
+    {
+        "id": "56c2acc8c44a3ad6e400050a",
+        "name": "Monkey's MATH 01:  How many \"ZERO\"s?",
+        "rank": -7,
+        "category": "games",
+        "url": "https://www.codewars.com/kata/56c2acc8c44a3ad6e400050a"
+    },
+    {
+        "id": "5727868888095bdf5c001d3d",
+        "name": "String to list of integers.",
+        "rank": -7,
+        "category": "algorithms",
+        "url": "https://www.codewars.com/kata/5727868888095bdf5c001d3d"
+    },
+    {
+        "id": "5a81b78d4a6b344638000183",
+        "name": "Spanish Conjugator",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5a81b78d4a6b344638000183"
+    },
+    {
+        "id": "57aa3927e298a757820000a8",
+        "name": "Number encrypting: cypher",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/57aa3927e298a757820000a8"
+    },
+    {
+        "id": "5874657211d7d6176a00012f",
+        "name": "Alien Accent",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/5874657211d7d6176a00012f"
+    },
+    {
+        "id": "55f8ba3be8d585b81e000080",
+        "name": "Mobile operator detector",
+        "rank": -7,
+        "category": "reference",
+        "url": "https://www.codewars.com/kata/55f8ba3be8d585b81e000080"
+    }
+]
