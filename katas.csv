@@ -1,0 +1,101 @@
+id,name,rank,category,url
+57a06005cf1fa5fbd5000216,Words to sentence,-7,reference,https://www.codewars.com/kata/57a06005cf1fa5fbd5000216
+55e4c52ad58df7509c00007e,Invalid Login - Bug Fixing #11,-8,bug_fixes,https://www.codewars.com/kata/55e4c52ad58df7509c00007e
+513f887e484edf3eb3000001,Person Class Bug,-7,bug_fixes,https://www.codewars.com/kata/513f887e484edf3eb3000001
+51c38e14ea1c97ffaf000003,Populate hash with array keys and default value,-7,reference,https://www.codewars.com/kata/51c38e14ea1c97ffaf000003
+55afed09237df73343000042,lucky number,-7,reference,https://www.codewars.com/kata/55afed09237df73343000042
+56d5166ec87df55dbe000063,Sum of Array Averages,-7,algorithms,https://www.codewars.com/kata/56d5166ec87df55dbe000063
+51dda84f91f5b5608b0004cc,Fizz / Buzz,-7,algorithms,https://www.codewars.com/kata/51dda84f91f5b5608b0004cc
+5a1ebe0d46d843454100004c,Day of the Year,-7,reference,https://www.codewars.com/kata/5a1ebe0d46d843454100004c
+56a4a3d4043c316002000042,regex  validation of 24 hours time.,-7,reference,https://www.codewars.com/kata/56a4a3d4043c316002000042
+5888a57cbf87c25c840000c6,It is written in the stars,-7,games,https://www.codewars.com/kata/5888a57cbf87c25c840000c6
+5857e8bb9948644aa1000246,Can Santa save Christmas?,-7,reference,https://www.codewars.com/kata/5857e8bb9948644aa1000246
+5a4b16435f08299c7000274f,"Sum - Square Even, Root Odd",-7,reference,https://www.codewars.com/kata/5a4b16435f08299c7000274f
+5566b0dd450172dfc4000005,Finding length of the sequence,-7,algorithms,https://www.codewars.com/kata/5566b0dd450172dfc4000005
+582aafca2d44a4a4560000e7,Keep the Order,-7,reference,https://www.codewars.com/kata/582aafca2d44a4a4560000e7
+56853c44b295170b73000007,Are they square?,-7,reference,https://www.codewars.com/kata/56853c44b295170b73000007
+56f7493f5d7c12d1690000b6,Calculate mean and concatenate string,-7,reference,https://www.codewars.com/kata/56f7493f5d7c12d1690000b6
+556cebcf7c58da564a000045,Number of Rectangles in a Grid,-7,games,https://www.codewars.com/kata/556cebcf7c58da564a000045
+59b710ed70a3b7dd8f000027,Possibilities Array,-7,reference,https://www.codewars.com/kata/59b710ed70a3b7dd8f000027
+515ceaebcc1dde8870000001,Retrieve array value by index with default,-7,reference,https://www.codewars.com/kata/515ceaebcc1dde8870000001
+57ef016a7b45ef647a00002d,Homogenous arrays,-7,reference,https://www.codewars.com/kata/57ef016a7b45ef647a00002d
+595519279be6c575b5000016,Battle of the characters (Easy),-7,algorithms,https://www.codewars.com/kata/595519279be6c575b5000016
+55c7f90ac8025ebee1000062,Failed Sort - Bug Fixing #4,-7,bug_fixes,https://www.codewars.com/kata/55c7f90ac8025ebee1000062
+559e10e2e162b69f750000b4,What dominates your array?,-7,reference,https://www.codewars.com/kata/559e10e2e162b69f750000b4
+56368f37d464c0a43c00007f,Debug Basic Calculator,-7,bug_fixes,https://www.codewars.com/kata/56368f37d464c0a43c00007f
+5520714decb43308ea000083,Nth Root of a Number,-7,reference,https://www.codewars.com/kata/5520714decb43308ea000083
+57037ed25a7263ac35000c80,Generate user links,-8,games,https://www.codewars.com/kata/57037ed25a7263ac35000c80
+59ca8e8e1a68b7de740001f4,String matchup,-7,algorithms,https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4
+52a6b34e43c2484ac10000cd,Naughty or Nice?,-7,reference,https://www.codewars.com/kata/52a6b34e43c2484ac10000cd
+5a4ff3c5fd56cbaf9800003e,Working with arrays I (and why your code fails in some katas),-7,refactoring,https://www.codewars.com/kata/5a4ff3c5fd56cbaf9800003e
+5f8341f6d030dc002a69d7e4,Least Larger,-7,algorithms,https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4
+5cd5ba1ce4471a00256930c0,last digits of a number,-7,reference,https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0
+5b6375f707a2664ada00002a,Who's Online?,-7,reference,https://www.codewars.com/kata/5b6375f707a2664ada00002a
+582c81d982a0a65424000201,Is every value in the array an array?,-7,reference,https://www.codewars.com/kata/582c81d982a0a65424000201
+58235a167a8cb37e1a0000db,Pair of gloves,-6,games,https://www.codewars.com/kata/58235a167a8cb37e1a0000db
+529b418d533b76924600085d,Convert PascalCase string into snake_case,-5,algorithms,https://www.codewars.com/kata/529b418d533b76924600085d
+57b6f5aadb5b3d0ae3000611,Length of missing array,-6,algorithms,https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611
+515f51d438015969f7000013,Pyramid Array,-6,algorithms,https://www.codewars.com/kata/515f51d438015969f7000013
+51e04f6b544cf3f6550000c1,Beeramid,-5,algorithms,https://www.codewars.com/kata/51e04f6b544cf3f6550000c1
+525f47c79f2f25a4db000025,Valid Phone Number,-6,algorithms,https://www.codewars.com/kata/525f47c79f2f25a4db000025
+51edd51599a189fe7f000015,Mean Square Error,-5,algorithms,https://www.codewars.com/kata/51edd51599a189fe7f000015
+52223df9e8f98c7aa7000062,ROT13,-5,algorithms,https://www.codewars.com/kata/52223df9e8f98c7aa7000062
+526989a41034285187000de4,Count IP Addresses,-5,algorithms,https://www.codewars.com/kata/526989a41034285187000de4
+51e0007c1f9378fa810002a9,Make the Deadfish Swim,-6,algorithms,https://www.codewars.com/kata/51e0007c1f9378fa810002a9
+515decfd9dcfc23bb6000006,IP Validation,-6,algorithms,https://www.codewars.com/kata/515decfd9dcfc23bb6000006
+526dbd6c8c0eb53254000110,Not very secure,-5,bug_fixes,https://www.codewars.com/kata/526dbd6c8c0eb53254000110
+514a024011ea4fb54200004b,Extract the domain name from a URL,-5,reference,https://www.codewars.com/kata/514a024011ea4fb54200004b
+525c65e51bf619685c000059,"Pete, the baker",-5,algorithms,https://www.codewars.com/kata/525c65e51bf619685c000059
+580a429e1cb4028481000019,Author Disambiguation: to the point,-7,reference,https://www.codewars.com/kata/580a429e1cb4028481000019
+5a6a02adcadebf618400002b,Make Your Own Hashmap,-7,reference,https://www.codewars.com/kata/5a6a02adcadebf618400002b
+6394c1995e54bd00307cf768,French Imparfait Conjugation,-7,reference,https://www.codewars.com/kata/6394c1995e54bd00307cf768
+6400aa17431f2d89c07eea75,Barbell weight,-7,reference,https://www.codewars.com/kata/6400aa17431f2d89c07eea75
+650a86e8404241005fc744ca,Ones and Zeroes,-7,reference,https://www.codewars.com/kata/650a86e8404241005fc744ca
+5d9fe0ace0aad7001290acb7,Significant Figures,-7,algorithms,https://www.codewars.com/kata/5d9fe0ace0aad7001290acb7
+59f69fefa0143109e5000019,Did we win the Super Bowl?,-7,reference,https://www.codewars.com/kata/59f69fefa0143109e5000019
+6627696c86b953001280675e,De-Emojify,-7,games,https://www.codewars.com/kata/6627696c86b953001280675e
+5736378e3f3dfd5a820000cb,Bus Timer,-7,reference,https://www.codewars.com/kata/5736378e3f3dfd5a820000cb
+565f448e6e0190b0a40000cc,Food combinations,-7,reference,https://www.codewars.com/kata/565f448e6e0190b0a40000cc
+5a21f943c5e284d4340000cb,Bug Squish!,-7,reference,https://www.codewars.com/kata/5a21f943c5e284d4340000cb
+5760c1c7f2717b91e20001a4,Find the motif in DNA sequence.,-7,algorithms,https://www.codewars.com/kata/5760c1c7f2717b91e20001a4
+675dc1d3830826975c58a09d,C is for Codewars,-7,reference,https://www.codewars.com/kata/675dc1d3830826975c58a09d
+5e5acfe31b1c240012717a78,Data Type Scramble,-7,reference,https://www.codewars.com/kata/5e5acfe31b1c240012717a78
+5819a6fdc929bae4f5000a33,Identify Case,-7,reference,https://www.codewars.com/kata/5819a6fdc929bae4f5000a33
+56b12e3ad2387de332000041,Greatest Difference,-7,reference,https://www.codewars.com/kata/56b12e3ad2387de332000041
+57507369b0b6d1b5a60001b3,Decompose single strand DNA into 3 reading frames,-7,reference,https://www.codewars.com/kata/57507369b0b6d1b5a60001b3
+573c91c5eaffa3bd350000b0,Gematria for all,-7,reference,https://www.codewars.com/kata/573c91c5eaffa3bd350000b0
+5830195755f28edad4000081,Get row from alphabetical sequence,-7,reference,https://www.codewars.com/kata/5830195755f28edad4000081
+6368426ec94f16a1e7e137fc,Walking in the hallway,-7,games,https://www.codewars.com/kata/6368426ec94f16a1e7e137fc
+5bc9951026f1cdc77400011c,The Baby Years I - Baby Counting,-7,reference,https://www.codewars.com/kata/5bc9951026f1cdc77400011c
+57eead3b5f79f6d977001fb7,DigitAll,-7,algorithms,https://www.codewars.com/kata/57eead3b5f79f6d977001fb7
+58311faba317216aad000168,Format to the 2nd,-7,reference,https://www.codewars.com/kata/58311faba317216aad000168
+57d147bcc98a521016000320,Pillow on the Fridge,-7,reference,https://www.codewars.com/kata/57d147bcc98a521016000320
+6584b7cac29ca91dd9124009,Lojban Numbers,-7,reference,https://www.codewars.com/kata/6584b7cac29ca91dd9124009
+5822b65bb81f702016000026,Unix command line `ls -l`  extract the file type. ,-7,reference,https://www.codewars.com/kata/5822b65bb81f702016000026
+58e953ace87e856a97000046,Wise drunk man,-7,reference,https://www.codewars.com/kata/58e953ace87e856a97000046
+582cb3a637c5583f2200005d,Disagreeable ascii,-7,reference,https://www.codewars.com/kata/582cb3a637c5583f2200005d
+667dfbaa4570b2db26aedc8c,Clothes size number converter,-7,reference,https://www.codewars.com/kata/667dfbaa4570b2db26aedc8c
+595d54bddddd7cf91800008c,COFFEE!,-7,reference,https://www.codewars.com/kata/595d54bddddd7cf91800008c
+55b95c76e08bd5eef100001e,Counting in the  Amazon,-7,games,https://www.codewars.com/kata/55b95c76e08bd5eef100001e
+530017aac7c0f49926000084,Pluck,-7,reference,https://www.codewars.com/kata/530017aac7c0f49926000084
+58880c6e79a0a3e459000004,Simple Fun #37:  House Numbers Sum,-7,games,https://www.codewars.com/kata/58880c6e79a0a3e459000004
+5497a3c181dd7291ce000700,Find sum of top-left to bottom-right diagonals,-7,reference,https://www.codewars.com/kata/5497a3c181dd7291ce000700
+56ce2f90aa4ac7a4770019fa,Help Mr. E,-7,reference,https://www.codewars.com/kata/56ce2f90aa4ac7a4770019fa
+65126d52a5de2b11c94096d2,Closing in Sum,-7,reference,https://www.codewars.com/kata/65126d52a5de2b11c94096d2
+57212c55b6fa235edc0002a2,Dinner Plans,-7,reference,https://www.codewars.com/kata/57212c55b6fa235edc0002a2
+5b36137991c74600f200001b,Kill The Monsters!,-7,reference,https://www.codewars.com/kata/5b36137991c74600f200001b
+5e2c7639b5d728001489d910,Product ID from URL,-7,reference,https://www.codewars.com/kata/5e2c7639b5d728001489d910
+5bc73331797b005d18000255,Curing Arachnophobia,-7,reference,https://www.codewars.com/kata/5bc73331797b005d18000255
+584d88622609c8bda30000cf,Strange Strings Parser!,-7,algorithms,https://www.codewars.com/kata/584d88622609c8bda30000cf
+5ac54bcbb925d9b437000001,Find the Middle of the Product,-7,reference,https://www.codewars.com/kata/5ac54bcbb925d9b437000001
+57ce0c634001a5f3c7000006,Date Format Validation,-7,reference,https://www.codewars.com/kata/57ce0c634001a5f3c7000006
+57cec34272f983e17800001e,PopShift,-7,reference,https://www.codewars.com/kata/57cec34272f983e17800001e
+58702c0ca44cfc50dc000245,Pig Atinlay,-7,reference,https://www.codewars.com/kata/58702c0ca44cfc50dc000245
+565ce4ab24ef4aee6a000074,String Matcher,-7,algorithms,https://www.codewars.com/kata/565ce4ab24ef4aee6a000074
+57ed7214f670e99f7a000c73,Ski Jump,-7,reference,https://www.codewars.com/kata/57ed7214f670e99f7a000c73
+56c2acc8c44a3ad6e400050a,"Monkey's MATH 01:  How many ""ZERO""s?",-7,games,https://www.codewars.com/kata/56c2acc8c44a3ad6e400050a
+5727868888095bdf5c001d3d,String to list of integers.,-7,algorithms,https://www.codewars.com/kata/5727868888095bdf5c001d3d
+5a81b78d4a6b344638000183,Spanish Conjugator,-7,reference,https://www.codewars.com/kata/5a81b78d4a6b344638000183
+57aa3927e298a757820000a8,Number encrypting: cypher,-7,reference,https://www.codewars.com/kata/57aa3927e298a757820000a8
+5874657211d7d6176a00012f,Alien Accent,-7,reference,https://www.codewars.com/kata/5874657211d7d6176a00012f
+55f8ba3be8d585b81e000080,Mobile operator detector,-7,reference,https://www.codewars.com/kata/55f8ba3be8d585b81e000080
